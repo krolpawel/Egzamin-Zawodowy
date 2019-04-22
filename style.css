@@ -1,0 +1,19 @@
+/*HTML { height:100%; }*/
+BODY { background-color:#ECAB53; }
+font.textlogowanie { font-weight:bold; font-size:25;	color:darkred; }
+a:link { text-decoration:none; color:black; }
+a.all-new { display: block;	width: 100%; height: 100%; }
+a.all-old { display: block;	width: 100%; height: 100%; }
+td.dobra { color:green; font-weight:bold; }
+td.zla { color:red; }
+td { text-align:center; }
+td.lewo {	text-align:left; }
+div.licznik { position:fixed; top:0; left:0; }
+div.main-up {	text-align:center; }
+div.edytor { position:static; top:10;	right:10; }
+div.wprowadzanie { position:static; left:0;	top:25; }
+div.wprowadzanie_check { position:relative;	top:25px; }
+div.stopka { position: static; bottom: 1%; width:99%; font-size:0.85em; color:gray; }
+font.witaj { font-size:30pt; }
+/*div.content { width:800px; margin: auto; background-color:#FFF8DC;}
+div.all { background-color: gold; width:100%;}*/

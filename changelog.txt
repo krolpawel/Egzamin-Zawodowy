@@ -1,0 +1,43 @@
+		|...........|
+		| CHANGELOG |
+		|...........|
+		
+		
+
+:::::
+::::::::::::
+::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+LEGENDA:
+
+FUNCTION - funkcja
+SECURITY - zabezpieczenia
+CONSTR - główna konstrukcja strony (construction)
+CONTENT - treść na stronie
+
+new - nowy
+mod - zmieniony (modify)
+rec - przebudowany kod (reconstruction of the structure)
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::
+:::::::::::::::
+::::::
+
+
+v1.0.0.0	-	27-01-2012
+	Udostępnienie systemu na platformie ogólnodostępnej www.zawodowytzn.yoyo.pl
+v1.1.0.0	-	28-01-2012
+	FUNCTION(new): 		proste zezwalanie i odmawianie wykonania testu
+	SECURITY(new): 		wysyłanie e-mail'a do administratora systemu po przekroczeniu dozwolonej (określonej w pliku index.php linia 11) liczby nieautoryzowanych działań
+	CONSTR(rec):		Stopka została umieszczona w osobnym pliku; na każdej stronie jest wywołanie do tego pliku
+v1.1.1.0	-	30-01-2012
+	CONSTR(mod):		poprawienie formy odniesień (zamiana "\" na "/")
+	CONTENT(mod):		Poprawa problemu kodowania znaków narodowych
+v1.1.2.0	-	07-02-2012
+	FUNCTION(mod):		naprawa systemu wprowadzania pytań ze zdjęciem
+	
